@@ -7,5 +7,6 @@ public class GithubDemo {
 		System.out.println("New print");
 		
 		System.out.println("teammate code");
+		System.out.println("Second stash");
 	}
 }
